@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# images saved by plate_reader.py if imshow is swapped for imwrite
+1_*.jpg
+2_*.jpg
+3_*.jpg
+4_*.jpg
